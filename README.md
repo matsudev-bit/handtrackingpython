@@ -1,7 +1,7 @@
 # handtrackingpython
-hand tracking with python
+hand tracking with python,
 you need to import
-mediaipe
-cv2
-time
+mediaipe,
+cv2,
+time,
 ---
